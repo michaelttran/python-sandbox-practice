@@ -1,4 +1,4 @@
-# python-sandbox
+# python-sandbox-practice
 
 A personal sandbox for sharpening Python skills across three areas:
 
